@@ -3,3 +3,4 @@
 Console.WriteLine("Hello, World!");
 //primer commit
 //probando el segundo commit
+//crear commit click derecho -> git -> commit -> cuando es por primera pide crear un usuario -> escribir el commit darle a push -> confirmar todo -> confirmar -> y otra vez a push
